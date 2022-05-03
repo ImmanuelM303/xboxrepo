@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30302" started-at="2022-05-03T05:29:31Z" finished-at="2022-05-03T05:30:02Z">
+  <suite name="Default suite" duration-ms="40173" started-at="2022-05-03T06:30:05Z" finished-at="2022-05-03T06:30:45Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30302" started-at="2022-05-03T05:29:31Z" finished-at="2022-05-03T05:30:02Z">
+    <test name="Default test" duration-ms="40173" started-at="2022-05-03T06:30:05Z" finished-at="2022-05-03T06:30:45Z">
       <class name="xboxtestcases.topFiveGames">
-        <test-method status="PASS" signature="setUpBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:xboxtestcases.topFiveGames@6ef888f6]" name="setUpBrowser" is-config="true" duration-ms="1651" started-at="2022-05-03T00:29:31Z" finished-at="2022-05-03T00:29:33Z">
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:xboxtestcases.topFiveGames@6ef888f6]" name="setUpBrowser" is-config="true" duration-ms="1628" started-at="2022-05-03T01:30:05Z" finished-at="2022-05-03T01:30:07Z">
           <params>
             <param index="0">
               <value>
@@ -33,17 +33,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method status="PASS" signature="testTopGames()[pri:0, instance:xboxtestcases.topFiveGames@6ef888f6]" name="testTopGames" duration-ms="6353" started-at="2022-05-03T00:29:33Z" finished-at="2022-05-03T00:29:39Z">
+        <test-method status="PASS" signature="testTopGames()[pri:0, instance:xboxtestcases.topFiveGames@6ef888f6]" name="testTopGames" duration-ms="17788" started-at="2022-05-03T01:30:07Z" finished-at="2022-05-03T01:30:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTopGames -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:xboxtestcases.topFiveGames@6ef888f6]" name="tearDown" is-config="true" duration-ms="3032" started-at="2022-05-03T00:29:39Z" finished-at="2022-05-03T00:29:42Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:xboxtestcases.topFiveGames@6ef888f6]" name="tearDown" is-config="true" duration-ms="3146" started-at="2022-05-03T01:30:24Z" finished-at="2022-05-03T01:30:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- xboxtestcases.topFiveGames -->
       <class name="xboxtestcases.xboxtestcases">
-        <test-method status="PASS" signature="setUpBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:xboxtestcases.xboxtestcases@35047d03]" name="setUpBrowser" is-config="true" duration-ms="1370" started-at="2022-05-03T00:29:42Z" finished-at="2022-05-03T00:29:44Z">
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:xboxtestcases.xboxtestcases@35047d03]" name="setUpBrowser" is-config="true" duration-ms="1363" started-at="2022-05-03T01:30:27Z" finished-at="2022-05-03T01:30:29Z">
           <params>
             <param index="0">
               <value>
@@ -69,11 +69,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method status="PASS" signature="testGamertag()[pri:0, instance:xboxtestcases.xboxtestcases@35047d03]" name="testGamertag" duration-ms="14966" started-at="2022-05-03T00:29:44Z" finished-at="2022-05-03T00:29:59Z">
+        <test-method status="PASS" signature="testGamertag()[pri:0, instance:xboxtestcases.xboxtestcases@35047d03]" name="testGamertag" duration-ms="13278" started-at="2022-05-03T01:30:29Z" finished-at="2022-05-03T01:30:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGamertag -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:xboxtestcases.xboxtestcases@35047d03]" name="tearDown" is-config="true" duration-ms="2917" started-at="2022-05-03T00:29:59Z" finished-at="2022-05-03T00:30:02Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:xboxtestcases.xboxtestcases@35047d03]" name="tearDown" is-config="true" duration-ms="2955" started-at="2022-05-03T01:30:42Z" finished-at="2022-05-03T01:30:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
