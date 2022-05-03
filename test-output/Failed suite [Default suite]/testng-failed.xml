@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Default suite]]" parallel="none">
+  <test name="Default test(failed)(failed)" parallel="none">
+    <classes>
+      <class name="xboxtestcases.topFiveGames">
+        <methods>
+          <include name="setUpBrowser"/>
+          <include name="tearDown"/>
+          <include name="testTopGames"/>
+        </methods>
+      </class> <!-- xboxtestcases.topFiveGames -->
+      <class name="xboxtestcases.xboxtestcases">
+        <methods>
+          <include name="setUpBrowser"/>
+          <include name="tearDown"/>
+          <include name="testGamertag"/>
+        </methods>
+      </class> <!-- xboxtestcases.xboxtestcases -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->
